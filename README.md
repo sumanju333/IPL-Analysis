@@ -19,7 +19,7 @@
 7. [Power BI Techniques Learned](#power-bi-techniques-learned)  
 8. [Key Metrics and Visuals](#key-metrics-and-visuals)  
 9. [Challenges and Learnings](#challenges-and-learnings)  
-10. [Conclusion and Future Scope](#conclusion-and-future-scope)  
+10. [Conclusion](#conclusion)  
 
 ---
 
