@@ -66,11 +66,26 @@ Cricket fans and analysts often face difficulty accessing clean, interactive dat
 
 The Power BI dashboard consists of five key pages:
 
-1. **Overview Page**: Tournament summary with total matches, runs, and wickets.  
+1. **Overview Page**: Tournament summary with total matches, runs, and wickets.
+ 
+![Overview](https://github.com/sumanju333/IPL-Analysis/blob/main/Overview%20Page.jpeg)
+ 
 2. **Individual Player Page**: Player-level performance with scroller and dynamic image.  
+
+![Player Page](https://github.com/sumanju333/IPL-Analysis/blob/main/Player%20Performance.jpeg)
+
 3. **Top Players Page**: Top 5 batsmen, bowlers, and allrounders with tooltips.  
+
+![Top Players](https://github.com/sumanju333/IPL-Analysis/blob/main/Top%20Players.jpeg)
+
 4. **Team Performance Page**: Win/loss breakdown, win % and dynamic team logo.  
+
+![Team Performance](https://github.com/sumanju333/IPL-Analysis/blob/main/Team%20Performance.jpeg)
+
 5. **Fantasy XI Page**: Data-driven team selection categorized by roles.  
+
+![Fantasy 11](https://github.com/sumanju333/IPL-Analysis/blob/main/Fantasy%2011.jpeg)
+
 
 ---
 
