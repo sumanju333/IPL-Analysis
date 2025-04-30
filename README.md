@@ -57,9 +57,13 @@ Cricket fans and analysts often face difficulty accessing clean, interactive dat
 - Relationships established via PlayerID, TeamID, and MatchID.  
 - Cleaned and transformed using Power Query before modeling.  
 
+![Data Model](https://github.com/sumanju333/IPL-Analysis/blob/main/Data%20Model.png)
 ---
 
 ## Dashboard Overview
+
+![Dashboard](https://github.com/sumanju333/IPL-Analysis/blob/main/IPL%20Dashboard.png)
+
 The Power BI dashboard consists of five key pages:
 
 1. **Overview Page**: Tournament summary with total matches, runs, and wickets.  
